@@ -53,7 +53,7 @@ Because GitHub does not allow uploading files >25MB directly,
 the trained model `final_xgb_model.pkl` is available in **GitHub Releases**.
 
 👉 **Download here:**  
-https://github.com/Logicrithm/Drug-Drug-Ingteraction
+https://github.com/Logicrithm/Drug-Drug-interaction
 /releases/latest
 
 After downloading, **place the file in the project root**, next to:
@@ -87,9 +87,9 @@ Save these into **requirements.txt**.
 
 ### 1️⃣ Clone the repository
 ```
-git clone https://github.com/Logicrithm/Drug-Drug-Ingteraction
+git clone https://github.com/Logicrithm/Drug-Drug-interaction
 .git
-cd Drug-Drug-Ingteraction
+cd Drug-Drug-interaction
 
 ```
 
